@@ -1,5 +1,8 @@
 # Open AI
 
+Learn Azure Open AI <BR>
+https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/ <BR>
+
 Repo dedicated to curated Open AI public materials.<BR>
 
 Azure OpenAI Service models<BR>
