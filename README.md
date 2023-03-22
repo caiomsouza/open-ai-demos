@@ -28,6 +28,9 @@ https://github.com/csiebler/openai-in-a-day <BR>
 
 azure-openai-service-workshop <BR>
 https://github.com/csiebler/azure-openai-service-workshop <BR>
+  
+Learn how to customize a model for your application <BR>
+https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/how-to/fine-tuning?pivots=programming-language-python <BR>  
 
 Related:<BR><BR>
 
