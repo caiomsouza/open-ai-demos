@@ -14,6 +14,9 @@ https://github.com/openai/openai-cookbook <BR>
 ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search <BR>
 https://github.com/Azure-Samples/azure-search-openai-demo/ 
 
+Azure OpenAI Samples <BR>
+https://github.com/Azure/openai-samples
+  
 Azure OpenAI Workshop <BR>
 https://github.com/Azure/azure-openai-workshop <BR>
 
