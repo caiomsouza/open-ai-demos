@@ -5,6 +5,9 @@ Repo dedicated to curated Open AI public materials.<BR>
 Azure OpenAI Service models<BR>
 https://learn.microsoft.com/en-GB/azure/cognitive-services/openai/concepts/models<BR>
 
+Azure OpenAI Service frequently asked questions<BR>
+https://learn.microsoft.com/en-gb/azure/cognitive-services/openai/faq<BR>
+
 OpenAI Cookbook <BR>
 https://github.com/openai/openai-cookbook <BR>
 
