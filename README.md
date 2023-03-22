@@ -1,6 +1,6 @@
 # Open AI
 
-Repo dedicated to curated Open AI.<BR>
+Repo dedicated to curated Open AI public materials.<BR>
 
 OpenAI Cookbook <BR>
 https://github.com/openai/openai-cookbook <BR>
