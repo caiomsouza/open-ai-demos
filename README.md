@@ -20,7 +20,7 @@ https://github.com/csiebler/openai-in-a-day <BR>
 azure-openai-service-workshop <BR>
 https://github.com/csiebler/azure-openai-service-workshop <BR>
 
-Related demos:<BR><BR>
+Related:<BR><BR>
 
 Form Recognizer Open AI  <BR>
 https://github.com/Nihal-15/FormRecognizer_OpenAI  <BR>
