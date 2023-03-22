@@ -22,6 +22,9 @@ https://github.com/csiebler/azure-openai-service-workshop <BR>
 
 Related:<BR><BR>
 
+Azure Cognitive Search Async Azure OpenAI
+https://github.com/ruoccofabrizio/azure-cognitive-search-async-azure-open-ai
+
 Form Recognizer Open AI  <BR>
 https://github.com/Nihal-15/FormRecognizer_OpenAI  <BR>
 
